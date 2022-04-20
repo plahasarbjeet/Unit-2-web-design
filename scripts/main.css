@@ -1,0 +1,60 @@
+﻿body{
+
+}
+
+
+.wrapper {
+    width:800px;
+    background-color: #deeef0;
+}
+.header {
+    height: 100px;
+    background-color: #faf1c5;
+    width:800px;
+    font-size: 100% ;
+    }
+    h1 {
+      font-family: 'Rajdhani', sans-serif;
+    }
+h3
+{font-family: 'Titillium Web', sans-serif;}
+
+
+
+
+.container {
+    width: 800px;
+    height: 400px;
+}
+.nav {
+    height: 400px;
+    background-color: #f4d4f5;
+    width: 200px;
+    float:left;
+}
+.mainContent {
+    height: 400px;
+
+    background-color: #acf3f0;
+    width: 600px;
+    float:right;
+
+    font-size: 30px ;
+    font-family: 'Titillium Web', sans-serif;
+
+
+    }
+
+
+    p{
+      text-align: left;
+      font-family: 'Titillium Web', sans-serif;
+      font-size: 20px ;
+    }
+.footer {
+color: #FF8C32 ;
+    height: 50px;
+    width: 800px;
+    background-color: #06113C;
+
+}
